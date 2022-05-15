@@ -1,0 +1,7 @@
+- brew install graphbiz
+- GOBIN -> PATH
+- go install github.com/uber/go-torch@latest
+- wget https://github.com/brendangregg/FlameGraph -o flamegraph.pl
+- https://studygolang.com/static/pkgdoc/pkg/runtime_pprof.htm
+- go tool pprof [binary] [binary.porf]
+- testFlag https://golang.org/src/runtime/pprof/pprof.go
