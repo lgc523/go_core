@@ -1,0 +1,2 @@
+- [log-practice](https://tonybai.com/2022/03/05/go-logging-practice/)
+- [zap](https://mp.weixin.qq.com/s/cU5y465F7bhzVk6cHp0qVA)
