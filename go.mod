@@ -1,6 +1,6 @@
 module go_core
 
-go 1.17
+go 1.18
 
 require (
 	github.com/easierway/concurrent_map v1.0.0
@@ -11,6 +11,7 @@ require (
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fogleman/gg v1.3.0 // indirect
+	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
