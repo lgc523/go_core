@@ -2,7 +2,8 @@ package bdd
 
 import (
 	"testing"
-	. "github.com/smartstreets/goconvey"
+
+	. "github.com/smartystreets/goconvey/convey"
 )
 
 func TestSpec(t *testing.T) {
